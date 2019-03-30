@@ -1,0 +1,20 @@
+{
+    "name": "spider",
+    "version": "1.0.0",
+    "description": "Node 爬虫",
+    "dependencies": {
+        "koa": "^2.7.0",
+        "request": "^2.88.0",
+        "zlib": "^1.0.5"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "img": "node ./huaban/index.js"
+    },
+    "keywords": [
+        "Node",
+        "爬虫"
+    ],
+    "author": "zw",
+    "license": "ISC"
+}
